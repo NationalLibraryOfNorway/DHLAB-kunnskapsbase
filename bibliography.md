@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Bibliography"
+---
+
 # Bibliograhy
 
 <div class="csl-bib-body" style="line-height: 1.35; margin-left: 2em; text-indent:-2em;">
