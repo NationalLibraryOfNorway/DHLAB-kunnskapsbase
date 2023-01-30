@@ -5,5 +5,4 @@
 layout: home
 ---
 
-
-[Bibliography](bibliography.html)
+DH-lab dokumenter.
