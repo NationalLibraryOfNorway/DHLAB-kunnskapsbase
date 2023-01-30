@@ -18,14 +18,14 @@ if __name__ == '__main__':
     with open(SOURCE ) as f:
         data = f.read()
 
-# Convert html to markdown
-mdwn = md(data)
+    # Convert html to markdown
+    mdwn = md(data)
 
-# Add header and # to title
-txt = header + "# " + mdwn.lstrip()
+    # Add header and # to title
+    txt = header + "# " + mdwn.lstrip()
 
-with open(DEST, "w") as f:
-    f.write(txt)
-    
-if DELETE_SOURCE_FILE:
-   os.remove(SOURCE) 
+    with open(DEST, "w") as f:
+        f.write(txt)
+        
+    if DELETE_SOURCE_FILE:
+        os.remove(SOURCE) 
