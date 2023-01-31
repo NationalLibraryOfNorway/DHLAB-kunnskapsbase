@@ -28,13 +28,9 @@ jobs:
     - name: Get bibliographic entries 
       run: |
         python bibliography/zotero_citations_copy.py ${{ secrets.ZOTERO_LIBRARY_CODE }} group ${{ secrets.ZOTERO_API_KEY }} bibliography2.md
-    - uses: actions/checkout@v3
-    - with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
-    - run: |
-          date > generated.txt
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-          git commit -m "generated"
-          git push
+    - name: Upload pytest test results
+      uses: actions/upload-artifact@v3
+      with:
+        name: bibliography2.md
+        path: bibliography2.md
+   
