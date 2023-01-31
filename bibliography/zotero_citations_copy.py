@@ -22,13 +22,13 @@ def generate_citations(library_id, library_type, api_key, output_path):
     zot = zotero.Zotero(library_id, library_type, api_key)
     items = zot.top(limit=50)
     # Reverse sort by date
-    items = sorted(items, key=lambda d: d["meta"]["parsedDate"], reverse=True)
+    items = sorted(items, key=lambda d: (d["meta"]["parsedDate"].split('-')[0], d['data']['creators'][0]['lastName'] ), reverse=True)
     formatted_citations = []
     for item in items:
 
         authors = ''
         if 'creators' in item['data']:
-            authors = ', '.join(['{}, {}'.format(author['lastName'], author['firstName']) for author in item['data']['creators']])
+            authors = ', '.join(['{}, {}'.format(author['lastName'], author['firstName']) for author in item['data']['creators'] if author['creatorType'] != "editor"])
     
         date = item['meta']['parsedDate'].split('-')[0] if 'parsedDate' in item['meta'] else ''
 
