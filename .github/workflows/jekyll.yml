@@ -27,6 +27,13 @@ concurrency:
 
 jobs:
   # Build job
+  consecutiveness:
+      runs-on: ubuntu-latest
+      steps:
+      - uses: mktcode/consecutive-workflow-action@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
   build:
     runs-on: ubuntu-latest
     steps:
