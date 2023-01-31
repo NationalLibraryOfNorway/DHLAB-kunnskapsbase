@@ -3,7 +3,7 @@ layout: page
 title: Bibliography
 ---
 
-# Bibliography
+# DH-lab bibliography
 Kveim Lie, Anne Helene, Johnsen, Lars G., Jordheim, Helge, Ytreberg, Espen 2022. [The Rise of Health: A Collocation Analysis of Conceptual Changes in News Discourse, 1950–2010](http://berghahnjournals.com/view/journals/contributions/17/2/choc170202.xml). Contributions to the History of Concepts. DOI: [10.3167/choc.2022.170202](https://doi.org/10.3167/choc.2022.170202)
 
 Tonne, Ingebjørg, Uri, Helene, Johnsen, Lars 2022. [Om kjønn og adjektiv: «Trond er så eksepsjonell/nydelig/skjønn/grønn»](https://septentrio.uit.no/index.php/nordlyd/article/view/6386). Nordlyd. DOI: [10.7557/12.6386](https://doi.org/10.7557/12.6386)
