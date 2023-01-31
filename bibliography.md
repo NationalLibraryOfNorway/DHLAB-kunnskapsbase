@@ -14,7 +14,7 @@ Karlsen, Heidi 2021. [5. Kvinner i Nasjonalbibliotekets digitaliserte samlinger 
 
 Johnsen, Lars G. 2021. [Term distance, frequency and collocations](https://benjamins.com/catalog/cilt.356.02joh). John Benjamins Publishing Company. 
 
-Dalen, Lars Sandved 2020. [Forsiktige forskere, engasjerte journalister](https://www.pressetidsskrift.no/tidsskrift/medietidsskrift-nr-2-2020/). Mediehistorisk Tidsskrift. DOI: [https://www.pressetidsskrift.no/tidsskrift/medietidsskrift-nr-2-2020/](https://doi.org/https://www.pressetidsskrift.no/tidsskrift/medietidsskrift-nr-2-2020/)
+Dalen, Lars Sandved 2020. [Forsiktige forskere, engasjerte journalister](https://www.pressetidsskrift.no/tidsskrift/medietidsskrift-nr-2-2020/). Mediehistorisk Tidsskrift. 
 
 Boasson, Frode Lerum, Johnsen, Lars G. 2020. [Hamsuns litterære geografi](https://septentrio.uit.no/index.php/nordlit/article/view/5725). Nordlit. DOI: [10.7557/13.5725](https://doi.org/10.7557/13.5725)
 
@@ -24,7 +24,7 @@ Uri, Helene 2019. [Helene Uri: Dette er en reklame for Norges stiligste nettside
 
 Olsen, Ida Keihl 2019. [Subjektplassering i moderne norsk - en korpusbasert analyse av leddstillingsvariasjon i bokmål det siste hundreåret](https://www.duo.uio.no/handle/10852/69263). 
 
-Karlsen, Heidi 2019. [Sub-corpus topic modeling og diskursanalyse: gruvearbeid, tråling eller kokekunst?](https://www.duo.uio.no/handle/10852/78112). Samlaren: tidsskrift för forskning om svensk och annan nordisk litteratur. DOI: [https://www.duo.uio.no/handle/10852/78112](https://doi.org/https://www.duo.uio.no/handle/10852/78112)
+Karlsen, Heidi 2019. [Sub-corpus topic modeling og diskursanalyse: gruvearbeid, tråling eller kokekunst?](https://www.duo.uio.no/handle/10852/78112). Samlaren: tidsskrift för forskning om svensk och annan nordisk litteratur. 
 
 Helland, Frode 2019. [Rasismens retorikk: studier i norsk offentlighet](https://www.pax.no/rasismens-retorikk.6251805-331611.html). Pax Forlag. 
 
