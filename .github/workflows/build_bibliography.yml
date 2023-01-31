@@ -28,3 +28,11 @@ jobs:
     - name: Get bibliographic entries 
       run: |
         python bibliography/zotero_citations_copy.py ${{ secrets.ZOTERO_LIBRARY_CODE }} group ${{ secrets.ZOTERO_API_KEY }} bibliography2.md
+    - uses: actions/checkout@v3
+    - run: |
+          date > generated.txt
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "generated"
+          git push
