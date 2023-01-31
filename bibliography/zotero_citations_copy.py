@@ -62,7 +62,7 @@ def generate_citations(library_id, library_type, api_key, output_path):
 
 
     with open(output_path, 'w+') as f:
-        f.write('---\nlayout: default\ntitle: Bibliography\n---\n\n')
+        f.write('---\nlayout: page\ntitle: Bibliography\n---\n\n')
         f.write("# Bibliography\n")
         [f.write(c + '\n\n') for c in formatted_citations]
 
