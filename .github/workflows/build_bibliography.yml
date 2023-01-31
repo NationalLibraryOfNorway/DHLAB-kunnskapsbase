@@ -32,33 +32,4 @@ jobs:
         git config user.email github-actions@github.com
         git add .
         git commit -m "bibliography2"
-        git push
-    - name: Upload pytest test results
-      uses: actions/upload-artifact@v3
-      with:
-        name: bibliography
-        path: bibliography2.md
-    - name: Download artifact
-      # You may pin to the exact commit or the version.
-      # uses: aochmann/actions-download-artifact@5709392f11b5937bd316e52687ad87f7deced5f5
-      uses: aochmann/actions-download-artifact@1.0.4
-      with:
-        # GitHub token
-       # github_token: # optional, default is ${{github.token}}
-        # Repository name with owner
-        # repo: # optional, default is ${{github.repository}}
-        # Artifact name (download all artifacts in not specified)
-        name: bibliography # optional
-        # Download latest artifact
-        # latest: # optional
-        # Artifact unpack location
-       #  path: # optional, default is ./
-    - uses: actions/checkout@v3
-    - run: |
-            date > generated.txt
-            git config user.name github-actions
-            git config user.email github-actions@github.com
-            git add .
-            git commit -m "generated"
-            git push
-   
+        git push 
