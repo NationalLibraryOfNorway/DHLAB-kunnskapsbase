@@ -27,4 +27,4 @@ jobs:
         pip install pyzotero
     - name: Get bibliographic entries 
       run: |
-        python bibliography/zotero_citations_copy.py ${{ secrets.ZOTERO_LIBRARY_CODE }} group ${{ secrets.ZOTERO_API_KEY }} bibliography.md
+        python bibliography/zotero_citations_copy.py ${{ secrets.ZOTERO_LIBRARY_CODE }} group ${{ secrets.ZOTERO_API_KEY }} bibliography2.md
