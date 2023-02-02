@@ -11,6 +11,8 @@ Tonne, Ingebjørg, Uri, Helene, Johnsen, Lars 2022. [Om kjønn og adjektiv: «Tr
 
 Kveim Lie, Anne Helene, Johnsen, Lars G., Jordheim, Helge, Ytreberg, Espen 2022. [The Rise of Health: A Collocation Analysis of Conceptual Changes in News Discourse, 1950–2010](http://berghahnjournals.com/view/journals/contributions/17/2/choc170202.xml). Contributions to the History of Concepts. DOI: [10.3167/choc.2022.170202](https://doi.org/10.3167/choc.2022.170202)
 
+Birkenes, Magnus Breder, Johnsen, Lars G., Kåsen, Andre 2022. [Om å bygge en leksikalsk ressurs for diakron skriftspråksvariasjon](https://tidsskrift.dk/lexn/article/view/134773). LexicoNordica. 
+
 Uri, Helene, Johnsen, Lars G. 2021. [Skjønnlitteraturen: en kroppsvisitasjon](https://barnebokinstituttet.no/aktuelt/skjonnlitteraturen-en-kroppsvisitasjon/). Norsk barnebokinstitutt. Tidligere publisert i Samtiden 3/2021. 
 
 Karlsen, Heidi 2021. [5. Kvinner i Nasjonalbibliotekets digitaliserte samlinger i perioden 1830–1880: etableringen av en minoriserende diskurs](http://www.idunn.no/doi/10.18261/9788215045320-2021-05). Universitetsforlaget. 
