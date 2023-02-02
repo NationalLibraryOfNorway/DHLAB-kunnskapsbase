@@ -28,7 +28,7 @@ def generate_citations(library_id, library_type, api_key, output_path):
 
         authors = ''
         if 'creators' in item['data']:
-            authors = ', '.join(['{}, {}'.format(author['lastName'], author['firstName']) for author in item['data']['creators'] if author['creatorType'] != "editor"])
+            authors = '; '.join(['{}, {}'.format(author['lastName'], author['firstName']) for author in item['data']['creators'] if author['creatorType'] != "editor"])
     
         date = item['meta']['parsedDate'].split('-')[0] if 'parsedDate' in item['meta'] else ''
 
