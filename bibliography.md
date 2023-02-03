@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Bibliography
+title: Bibliografi
 ---
 
-# DH-lab bibliography
+# DH-lab bibliografi
 *New --> old*
 
 
