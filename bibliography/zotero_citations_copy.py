@@ -64,7 +64,7 @@ def generate_citations(library_id, library_type, api_key, output_path):
     with open(output_path, 'w+') as f:
         f.write('---\nlayout: page\ntitle: Bibliografi\n---\n\n')
         f.write("# DH-lab bibliografi\n")
-        f.write("*New --> old*\n\n\n")
+        f.write("*Ny --> gammel*\n\n\n")
         [f.write(c + '\n\n') for c in formatted_citations]
 
     print('Process complete.', len(formatted_citations), 'citations written to', output_path)
