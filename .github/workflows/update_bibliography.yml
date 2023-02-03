@@ -1,9 +1,10 @@
 name : Update bibliography
 
 on:
-  
-  workflow_call:
-    
+
+ push:
+   branches:
+     - "main"  
 
   workflow_dispatch:
 
