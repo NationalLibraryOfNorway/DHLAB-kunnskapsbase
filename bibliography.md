@@ -4,7 +4,7 @@ title: Bibliografi
 ---
 
 # DH-lab bibliografi
-*Ny --> gammel*
+*Sortert ny --> gammel*
 
 
 Tonne, Ingebjørg; Uri, Helene; Johnsen, Lars 2022. [Om kjønn og adjektiv: «Trond er så eksepsjonell/nydelig/skjønn/grønn»](https://septentrio.uit.no/index.php/nordlyd/article/view/6386). Nordlyd. DOI: [10.7557/12.6386](https://doi.org/10.7557/12.6386)
