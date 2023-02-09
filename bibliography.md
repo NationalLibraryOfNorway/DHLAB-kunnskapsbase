@@ -7,7 +7,7 @@ title: Bibliografi
 *Sortert ny --> gammel*
 
 
-Johnsen, Lars 2023. [Å bruke språkteknologi til å undersøke medisinske ord | Tidsskriftet Michael](https://www.michaeljournal.no/article/2023/02/%C3%85%20bruke%20spr%C3%A5kteknologi%20til%20%C3%A5%20unders%C3%B8ke%20medisinske%20ord). Michael. 
+Johnsen, Lars 2023. [Å bruke språkteknologi til å undersøke medisinske ord](https://www.michaeljournal.no/article/2023/02/%C3%85%20bruke%20spr%C3%A5kteknologi%20til%20%C3%A5%20unders%C3%B8ke%20medisinske%20ord). Michael. 
 
 Tonne, Ingebjørg; Uri, Helene; Johnsen, Lars 2022. [Om kjønn og adjektiv: «Trond er så eksepsjonell/nydelig/skjønn/grønn»](https://septentrio.uit.no/index.php/nordlyd/article/view/6386). Nordlyd. DOI: [10.7557/12.6386](https://doi.org/10.7557/12.6386)
 
