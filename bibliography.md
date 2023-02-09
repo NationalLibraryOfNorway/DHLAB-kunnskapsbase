@@ -7,6 +7,8 @@ title: Bibliografi
 *Sortert ny --> gammel*
 
 
+Johnsen, Lars 2023. [Å bruke språkteknologi til å undersøke medisinske ord | Tidsskriftet Michael](https://www.michaeljournal.no/article/2023/02/%C3%85%20bruke%20spr%C3%A5kteknologi%20til%20%C3%A5%20unders%C3%B8ke%20medisinske%20ord). Michael. 
+
 Tonne, Ingebjørg; Uri, Helene; Johnsen, Lars 2022. [Om kjønn og adjektiv: «Trond er så eksepsjonell/nydelig/skjønn/grønn»](https://septentrio.uit.no/index.php/nordlyd/article/view/6386). Nordlyd. DOI: [10.7557/12.6386](https://doi.org/10.7557/12.6386)
 
 Kveim Lie, Anne Helene; Johnsen, Lars G.; Jordheim, Helge; Ytreberg, Espen 2022. [The Rise of Health: A Collocation Analysis of Conceptual Changes in News Discourse, 1950–2010](http://berghahnjournals.com/view/journals/contributions/17/2/choc170202.xml). Contributions to the History of Concepts. DOI: [10.3167/choc.2022.170202](https://doi.org/10.3167/choc.2022.170202)
