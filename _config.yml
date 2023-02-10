@@ -42,8 +42,11 @@ color_scheme: my_scheme
 aux_links:
   "DH-lab Home":
     - "https://www.nb.no/dh-lab/"
-  "DH-lab on GitHub"
+  "DH-lab on GitHub":
     - "https://github.com/nationalLibraryOfNorway/dhlab"
 
 
 # External navigation links
+nav_external_links:
+  - title: Notebooks
+    url: https://nbviewer.org/github/NationalLibraryOfNorway/digital_tekstanalyse/tree/main/
