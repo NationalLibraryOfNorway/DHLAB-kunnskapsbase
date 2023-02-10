@@ -50,5 +50,5 @@ aux_links:
 
 # External navigation links
 nav_external_links:
-  - title: Notebook eksempler
+  - title: Eksempler i NBviewer
     url: https://nbviewer.org/github/NationalLibraryOfNorway/digital_tekstanalyse/tree/main/
