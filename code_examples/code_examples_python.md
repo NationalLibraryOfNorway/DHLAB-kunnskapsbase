@@ -4,13 +4,13 @@ title: Python
 parent: Kodeeksempler
 ---
 
-# Kodeeksempler i Jupyter Notebook
+# Kodeeksempler i Python
 
 For en fullstendig liste over kodeeksempler, se vårt eksempelrepositorium i [NBviewer](https://nbviewer.org/github/NationalLibraryOfNorway/digital_tekstanalyse/tree/main/)
 
 Her er en liste over kodeeksempler i Jupyter Notebook. Klikk på en link for å åpne et eksempel i Jupyter Notebook.
 
-## Eksempler i Python
+## Eksempler
 
 [Eksempel 1.0: Oppstart](https://nbviewer.org/github/NationalLibraryOfNorway/digital_tekstanalyse/blob/main/1.0.Oppstart.ipynb): kom i gang med bruk av DH-labbens Python-bibliotek.
 
