@@ -22,7 +22,7 @@ Her er en liste over kodeeksempler i Jupyter Notebook. Klikk på en link for å 
 
 [Eksempel 2.2 kollokasjoner](https://nbviewer.org/github/NationalLibraryOfNorway/digital_tekstanalyse/blob/main/2.2.Kollokasjoner.ipynb): Kollokasjoner er ord som brukes i nærheten av et annet ord. Kollokasjoner kan brukes til å se på hvordan ord brukes i sammenhenger.
 
-[Eksempel 2.3 frekvensanalyse](https://nbviewer.org/github/NationalLibraryOfNorway/digital_tekstanalyse/blob/main/2.3.Frekvensanalyse.ipynb): Frekvensanalyse er en måte å se på ord i et korpus. Vi kan bruke frekvensanalyse til å se på hvilke ord som er mest vanlige i et korpus.
+[Eksempel 2.3 frekvensanalyse](https://nbviewer.org/github/NationalLibraryOfNorway/digital_tekstanalyse/blob/main/2.3.Frekvenslister.ipynb): Frekvensanalyse er en måte å se på ord i et korpus. Vi kan bruke frekvensanalyse til å se på hvilke ord som er mest vanlige i et korpus.
 
 ### Aviser
 [Eksempel 2.4 Søk i aviser](https://nbviewer.org/github/NationalLibraryOfNorway/digital_tekstanalyse/blob/main/2.4.S%C3%B8k_i_aviser.ipynb): Bruk av aviser med dhlab-biblioteket.
